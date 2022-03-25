@@ -1,0 +1,14 @@
+{
+  "name": "gancu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2",
+    "puppeteer": "^13.5.1",
+    "readline-sync": "^1.4.10"
+    }
+}
